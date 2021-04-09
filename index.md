@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/JupiterAndy/refactored-spo
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### for a test
-you can click [here](https://github.com/JupiterAndy/refactored-spork/blob/gh-pages/test.md) to open other files you want.
+you can click [here](https://github.com/JupiterAndy/refactored-spork/blob/gh-pages/test) to open other files you want.
 
 ### Markdown
 
